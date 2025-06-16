@@ -126,10 +126,6 @@ collaborator3
 
 - The script only lists users with at least read (pull) access.
 
-### 📬 Feedback
-
-- For questions or suggestions, please open an issue or contact the author.
-
 <div id="user-content-toc">
 <ul style="list-style: none;">
 <summary>
